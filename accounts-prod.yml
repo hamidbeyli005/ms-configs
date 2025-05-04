@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to work accounts related prod APIs "
+  message: "Welcome to work accounts related prod5 APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "aishwarya@work.com"
