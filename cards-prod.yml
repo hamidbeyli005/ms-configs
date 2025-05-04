@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to work cards related prod2 APIs "
+  message: "Welcome to work cards related prod3 APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "aishwarya@work.com"
