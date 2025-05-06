@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to work accounts related local2 APIs "
+  message: "Welcome to work accounts related local APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "{cipher}1505affe68a2b0bb16547e05ec5a6a003c021bdadceda4046a5252fb211f074213233df74bb2ede8ae4eb0484d7d4edf"
